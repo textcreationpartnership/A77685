@@ -1,0 +1,1139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The speech of the Right Honorable the Lord Mayor of London, with the humble address of the military forces of the same city, to the Kings most Excellent Majesty. With His Majesties most gracious answer thereunto, and letter to the Lord Mayor thereupon. And all the transactions incident thereunto. Published by authority.</title>
+            <author>City of London (England). Lord Mayor.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77685</idno>
+            <idno type="STC">Wing B5146</idno>
+            <idno type="STC">Thomason E1086_15</idno>
+            <idno type="STC">ESTC R208158</idno>
+            <idno type="EEBO-CITATION">99867138</idno>
+            <idno type="PROQUEST">99867138</idno>
+            <idno type="VID">119429</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77685)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119429)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 161:E1086[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The speech of the Right Honorable the Lord Mayor of London, with the humble address of the military forces of the same city, to the Kings most Excellent Majesty. With His Majesties most gracious answer thereunto, and letter to the Lord Mayor thereupon. And all the transactions incident thereunto. Published by authority.</title>
+                  <author>City of London (England). Lord Mayor.</author>
+                  <author>Browne, Richard, Sir, 1602?-1669.</author>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>City of London (England). Committee for the Militia.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Rooks at the Lamb at the East end of S. Pauls,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Lord mayor of London = Sir Richard Browne, 1602?-1669.</note>
+                  <note>Includes the names of all who subscribed.</note>
+                  <note>Annotation on Thomason copy: "Aprill 9".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Loyalty oaths --  England --  Early works to 1800.</term>
+               <term>Trainbands --  England --  London --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119429:1" rendition="simple:additions"/>
+            <p>THE SPEECH Of the Right Honorable the Lord Mayor of <hi>London,</hi> with the humble Addreſs of the Military Forces of the ſame City, to the Kings moſt excellent Majeſty.</p>
+            <p>With His Majeſties moſt GRACIOUS ANSWER Thereunto, and Letter to the Lord Mayor thereupon.</p>
+            <p>And all the Tranſactions incident thereunto.</p>
+            <p>
+               <hi>Publiſhed by Authority.</hi>
+            </p>
+            <figure>
+               <figDesc>blazon or coat of arms</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Tho. Rooks</hi> at the Lamb at the Eaſt end of <hi>S. Pauls.</hi> 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:119429:2"/>
+            <pb n="3" facs="tcp:119429:2"/>
+            <p>THat highly deſerving Gentleman, and faithfull Subject, Sir <hi>Richard Brown</hi> Knight and Baronet, now Lord Mayor, and Major General of the City of <hi>London,</hi> the Field Offi<g ref="char:EOLhyphen"/>cers, Captains, and other inferior Officers of all the Trained Bands, the Regiments of Horſe, and Regiments of Auxiliary Forces of that Fa<g ref="char:EOLhyphen"/>mous City met on <hi>Tueſday</hi> the ſecond of <hi>April</hi> 1661. at the <hi>Guildhall</hi> of the ſame City, and there ſubſcribed the following Addreſs.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Dread Sovereign,</salute>
+                  </opener>
+                  <p>YOur moſt Loyal and moſt Devoted Sub<g ref="char:EOLhyphen"/>jects, Your Maj. General, Field Officers and Captains, with all the Interiour Officers of the ſeveral Regiments of Your Trained Bands of Your City of London, whiles ſoine mens zeal through unrighteous Seduce<g ref="char:EOLhyphen"/>ments, ſeemes a little cooled towards Your Ma<g ref="char:EOLhyphen"/>jeſties Service, Do with all humble holdneſs Re<g ref="char:EOLhyphen"/>monſtrate the Conſtancy of theirs; And in a deep ſenſe of their Duty and high Obligations to Your Sacred Majeſty for Your eſpeciall Indulgencies to this Your Native City, do Dedicate their Lives and Eſtates to Your Majeſties Service, Hereby adding to their Oath of Allegiance, That they will not only bear Faith and Obedience to Your
+<pb n="4" facs="tcp:119429:3"/>Majeſty, but upon all Occaſions joyfully employ and improve their uttermoſt power and vigilancy with their Lives and Fortunes to deſtroy Your Enemies in defence of Your Royall Perſon and Authority, and ſecuring all Your juſt, Civil In<g ref="char:EOLhyphen"/>tereſts, with the Intereſt of Religion as it is now eſtabliſhed by Law, for Your Majeſty being e<g ref="char:EOLhyphen"/>minently the moſt Pious, Gracious, and Worrthy Prince in the World, We cannot, without excee<g ref="char:EOLhyphen"/>ding all other Subjects in Loyalty and Affection, deſerve the Title of</p>
+                  <closer>
+                     <signed>Your Majeſties True, Dutifull, humble, and Obedient Subjects and Servants. Namely, Sir <hi>Rich. Brown</hi> Knight and Baronet, Lord Mayor and Major General of the City of <hi>London.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <list>
+               <head>Trained Bands. 1. Regiment Black and Yellow.</head>
+               <item>
+                  <hi>Col. The Lord Mayor.</hi>
+               </item>
+               <item>
+                  <hi>L. Col. Sir</hi> Tho. Player, <hi>jun. Kt.</hi>
+               </item>
+               <item>
+                  <hi>Maj.</hi> Humph. Kilby. <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Capt.</hi> Tho. Boſtock <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Capt.</hi> John Dade <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Capt.</hi> Thomas Roſe. <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Lievetenants.</hi>
+                  <list>
+                     <item>Fran. Turner <hi>Capt. Leiv.</hi>
+                     </item>
+                     <item>William Walker.</item>
+                     <item>William Knight.</item>
+                     <item>Job Croft.</item>
+                     <item>Robert Rodway.</item>
+                     <item>Charles Langworth.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Enſignes.</hi>
+                  <list>
+                     <item>Riche Clowdeſley.</item>
+                     <item>Thomas Hixon.</item>
+                     <item>Will. Bowdler.</item>
+                     <item>John King.</item>
+                     <item>Roger Dade.</item>
+                     <item>Tho. Knowlis.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>II. Regiment Green.</head>
+               <item>Col. Sir <hi>John Robinſon,</hi> Knight and Baronet, Alderman &amp; Lievtenant of the Tower of <hi>London.</hi>
+               </item>
+               <item>
+                  <hi>L. Col. Sir</hi> Andrew King.</item>
+               <item>Will: <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Capt. Liev.</hi> Roger Crook.</item>
+               <item>
+                  <hi>Major</hi> Ralph Tasker. <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Capt.</hi> William Fiſher <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Capt.</hi> Jeff: Northleigh <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Capt.</hi> Nich: Coleborne <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>Richard Cawthorn.</item>
+               <item>Edward Knight.</item>
+               <item>William Cam.</item>
+               <item>Thomas Mariſhall.</item>
+               <item>Adrian Quiney.</item>
+               <item>Fran. Wiſſon.</item>
+               <item>William Tiverton.</item>
+               <item>James Seely.</item>
+            </list>
+            <pb n="5" facs="tcp:119429:3"/>
+            <list>
+               <head>III. Regiment Red.</head>
+               <item>
+                  <hi>Col. Sir</hi> Anthony Bateman <hi>Kt. and Alderman.</hi> Richard Cox <hi>Capt. Lier:</hi>
+               </item>
+               <item>
+                  <hi>Liev. Col. Sir</hi> John Cutler. <hi>Knight and Baronet.</hi> Roger Ive</item>
+               <item>
+                  <hi>Maj.</hi> Abrdham Stanyon. <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Capt.</hi> John Swaile. <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Capt.</hi> Edward Micae. <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Capt.</hi> John Ryves. <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Capt.</hi> William Parker <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Lievtenants.</hi>
+                  <list>
+                     <item>John. Milton.</item>
+                     <item>Peter Smith.</item>
+                     <item>Tho. Abrahall.</item>
+                     <item>Tho. Fowk.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Enſigns.</hi>
+                  <list>
+                     <item>Robert Alſop.</item>
+                     <item>Robert Adams.</item>
+                     <item>Tho. Lingard.</item>
+                     <item>Will. Woodward.</item>
+                     <item>Vincint Izart.</item>
+                     <item>John Bellamy.</item>
+                     <item>Adam Willis.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>IV. Regiment White.</head>
+               <item>
+                  <hi>Col. Sir</hi> William Wale <hi>Kt. and Alderman.</hi>
+               </item>
+               <item>
+                  <hi>L. Col. Sir</hi> J. Throckmorton <hi>Kt.</hi>
+               </item>
+               <item>
+                  <hi>Major</hi> Stephen Bolton <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Capt.</hi> John Steventon. <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Capt.</hi> Charles Everard <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Capt.</hi> William Stroud. <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Capt.</hi> John Casby. <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Lievetenants.</hi>
+                  <list>
+                     <item>Nich. Coxeter <hi>Capt. Liev.</hi>
+                     </item>
+                     <item>William Brewer</item>
+                     <item>Sam. Slaney.</item>
+                     <item>Robert Wilsted.</item>
+                     <item>John Ruſſon</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Enſigns.</hi>
+                  <list>
+                     <item>Iohn Barttersby.</item>
+                     <item>William Strange.</item>
+                     <item>George Best.</item>
+                     <item>James Damaske.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>V. Regiment Blew.</head>
+               <item>
+                  <hi>Col. Sir</hi> Will. <g ref="char:V">Ʋ</g>incent. <hi>Kt.</hi>
+               </item>
+               <item>
+                  <hi>L. Col. Sir</hi> Geo. Smith <hi>Kt.</hi>
+               </item>
+               <item>
+                  <hi>Major</hi> Tho. Cox. <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Capt.</hi> Robert Dawes. <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Capt.</hi> W. Throckmorton. <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Capt.</hi> Tho. Bonſoy. <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Capt.</hi> Arthur Jordan. <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>Henry Collier.</item>
+               <item>Richard Newlin.</item>
+               <item>John Young.</item>
+               <item>Geo. Bromley.</item>
+               <item>Tho. Baker.</item>
+               <item>Tho. Soley.</item>
+               <item>Tho. Needham.</item>
+               <item>Lancelot Rider.</item>
+               <item>Steph. Lodington.</item>
+               <item>Hugh Harvey.</item>
+               <item>Dan. Griſſith.</item>
+            </list>
+            <list>
+               <head>VI. Regiment Yellow.</head>
+               <item>
+                  <hi>Col. Sir</hi> Tho. Bludworth. <hi>Kt.</hi>
+               </item>
+               <item>
+                  <hi>L. Col. Sir</hi> Robert Peake, <hi>Kt.</hi>
+               </item>
+               <item>
+                  <hi>Major</hi> Will. Roſewell. <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Capt.</hi> John Wallis <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Capt.</hi> James Bradſhaw. <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Capt.</hi> Rich: Colcheſter. <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Capt.</hi> John Clarke. <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>Ric. Bratley <hi>Capt. Liev.</hi>
+               </item>
+               <item>Thomas Staynor.</item>
+               <item>John Hammond</item>
+               <item>Will. Roybould</item>
+               <item>Will. Beamoont.</item>
+               <item>Hen. Strode.</item>
+               <item>John Sanders.</item>
+               <item>John Chittey.</item>
+               <item>Hev. Hunſlapp.</item>
+               <item>Will. M<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſe.</item>
+               <item>James Burret.</item>
+               <item>Frans. Boutchier.</item>
+               <item>Henry Johnſon.</item>
+               <item>John Burroughs <hi>Eſquire, Muſter Maſter.</hi>
+               </item>
+            </list>
+            <pb n="6" facs="tcp:119429:4"/>
+            <list>
+               <head>Sergeants.</head>
+               <item>John Carron.</item>
+               <item>Hen. Phillips.</item>
+               <item>Dan. Pepper.</item>
+               <item>Tim. Singleton.</item>
+               <item>John Hoe.</item>
+               <item>James Cooke.</item>
+               <item>Charles Cook.</item>
+               <item>Tho. Birch.</item>
+               <item>Andr. Prime.</item>
+               <item>John Empſon.</item>
+               <item>Rob. Burden.</item>
+               <item>Arth. Hall.</item>
+               <item>Ab. Lapworth.</item>
+               <item>Tho. H<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bday.</item>
+               <item>Tho. Weſtraw.</item>
+               <item>John Merry.</item>
+               <item>Edward Cottrel.</item>
+               <item>John Mitchell.</item>
+               <item>Ben. Ladd.</item>
+               <item>Bar. Alder.</item>
+               <item>Joſhua King.</item>
+               <item>John Major.</item>
+               <item>Arth. Brown.</item>
+               <item>Tho. Hanſon.</item>
+               <item>John Summerell.</item>
+               <item>Rich. Kennon.</item>
+               <item>Jer. Arnold.</item>
+               <item>Edw. Gage.</item>
+               <item>Jo. Fouke.</item>
+               <item>John Pear<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e.</item>
+               <item>John Rumball.</item>
+               <item>John Prior.</item>
+               <item>Rich. Page.</item>
+               <item>John Hatton.</item>
+               <item>Tho. Addis.</item>
+               <item>Dan. Morris.</item>
+               <item>Rich. Whitlock</item>
+               <item>Hum. Taylor.</item>
+               <item>Geo. Singe.</item>
+               <item>Fra. Naſh.</item>
+               <item>Jervas Lea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on.</item>
+               <item>Sam. Wootrond.</item>
+               <item>John Bliſſe.</item>
+               <item>Will. Gardner.</item>
+               <item>Will Branch.</item>
+               <item>John Rawſon.</item>
+               <item>Tho. Vincent.</item>
+               <item>Rob. Twyford.</item>
+               <item>Peter Emonſon.</item>
+               <item>Tho. Hatton.</item>
+               <item>Joſ. Motterſhed.</item>
+               <item>Will. Edwards.</item>
+               <item>Poſthumus Sare.</item>
+               <item>Rich. Webſter.</item>
+               <item>Rich. Simmons.</item>
+               <item>Math. Tarbett.</item>
+               <item>John Ward.</item>
+               <item>Geo. Allin.</item>
+               <item>Joſ. Brook.</item>
+               <item>Rich. Phillips.</item>
+               <item>John Basford.</item>
+               <item>Will. Hurde.</item>
+               <item>Edw. Hales.</item>
+               <item>W<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll. Hinton.</item>
+               <item>Will. Dodd.</item>
+               <item>Joſ. Palmer.</item>
+               <item>Tho. Hunt.</item>
+               <item>Will. Maxon.</item>
+               <item>Tho. Hinton.</item>
+               <item>Rich. Moor.</item>
+               <item>T. Thackor.</item>
+               <item>Rich. Read.</item>
+               <item>John Readman.</item>
+               <item>Edw. Everett.</item>
+               <item>John Foulks.</item>
+               <item>Will. Bolton.</item>
+               <item>Tho. Inſley.</item>
+               <item>Will. Briſtow.</item>
+               <item>Ben. Stafford.</item>
+               <item>Rob. Hooper.</item>
+               <item>Tho. Hutchins.</item>
+               <item>John Reynolds.</item>
+               <item>Tho. Soulter.</item>
+               <item>Rich. Swan.</item>
+               <item>Geo. Pemberton.</item>
+               <item>Jer. Stephens.</item>
+               <item>Rich. George.</item>
+               <item>Tho. Hunt.</item>
+               <item>Rob. Brearley.</item>
+               <item>John Wharton.</item>
+               <item>Will Rudd.</item>
+               <item>John Lathum.</item>
+               <item>Geo. Philips.</item>
+               <item>Theo. Dorrington.</item>
+               <item>Oſnall Farr.</item>
+               <item>Geo. Reynolds.</item>
+               <item>Dan. Ireland.</item>
+               <item>Rich. Clark.</item>
+               <item>Math. Harries.</item>
+               <item>John Smith.</item>
+               <item>Rich. Danſer.</item>
+               <item>Edm. Freeman.</item>
+               <item>Tho. Mills.</item>
+               <item>Will. Page.</item>
+               <item>Eliſha Wallis.</item>
+               <item>John Tew.</item>
+               <item>Tho. Mills.</item>
+               <item>John Evans.</item>
+               <item>Hen. Whittingham.</item>
+            </list>
+            <list>
+               <head>Regiments of Horſe. 1. Regiment.</head>
+               <item>
+                  <hi>Col. the Lord Mayor.</hi>
+               </item>
+               <item>
+                  <hi>Major</hi> Ben. Henſhaw.</item>
+               <item>
+                  <hi>Capt. Sir</hi> Jam: Mudyford <hi>Kt.</hi>
+               </item>
+               <item>
+                  <hi>Capt.</hi> John Clark. <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Capt.</hi> Robert Morris. <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Capt.</hi> Tho. Barret. <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Lievtenants.</hi>
+                  <list>
+                     <item>Chr. Shaw. <hi>Capt. L.</hi>
+                     </item>
+                     <item>Robert Blackston.</item>
+                     <item>Tho. Roycroft.</item>
+                     <item>Tho. Walker</item>
+                     <item>John Ryland.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Cornets.</hi>
+                  <list>
+                     <item>Iſ. Garard.</item>
+                     <item>John Jones.</item>
+                     <item>Sam. Put.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Quar. Maſters.</hi>
+                  <list>
+                     <item>Joſ. Blomley.</item>
+                     <item>John Carew.</item>
+                     <item>Will. Pawlet.</item>
+                     <item>Edw. Powel.</item>
+                     <item>Tho. Hobday.</item>
+                  </list>
+               </item>
+            </list>
+            <pb n="7" facs="tcp:119429:4"/>
+            <list>
+               <head>II. Regiment.</head>
+               <item>
+                  <hi>Col. Sir</hi> Nich. Criſp. <hi>Kt.</hi>
+               </item>
+               <item>
+                  <hi>L. Col. Sir</hi> John Shaw <hi>Kt.</hi>
+               </item>
+               <item>
+                  <hi>Capt.</hi> Kondrick <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Capt.</hi> Swaile <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>Baud <hi>Capt. Liev.</hi>
+               </item>
+               <item>John Hearne</item>
+               <item>Zankey</item>
+               <item>Tho. Founds</item>
+               <item>John Burroughs, <hi>Eſquire, Muſter Maſter.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Regiments of Auxiliary Forces. I. Regiment White.</head>
+               <item>
+                  <hi>Col. Sir</hi> Rich. Ford. <hi>Kt. and Alderman.</hi>
+               </item>
+               <item>
+                  <hi>Lieut. Col.</hi> Ben. Baron. <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Major</hi> John Brett. <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Capt.</hi> John Wheake. <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Capt.</hi> John Parker. <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Capt.</hi> Ri. Cartwright <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Capt.</hi> Rich. Kinſey. <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Lieutenants.</hi>
+                  <list>
+                     <item>Will. Kemp <hi>Capt. Lieut.</hi>
+                     </item>
+                     <item>Tho. Frith.</item>
+                     <item>John Maxfield.</item>
+                     <item>William Bennet.</item>
+                     <item>Rich. Senior.</item>
+                     <item>Tho. Ives</item>
+                     <item>Edw. Parker.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Enſigns.</hi>
+                  <list>
+                     <item>John Glanvill.</item>
+                     <item>Ben. Mann.</item>
+                     <item>Will. Bowles.</item>
+                     <item>Parth. Bywall.</item>
+                     <item>Rich. Millor.</item>
+                     <item>Fra. Trenley.</item>
+                     <item>Edw. Kinſey.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>II. Regiment Green.</head>
+               <item>
+                  <hi>Col. Sir</hi> Will. Gardiner, <hi>Knight and Baronet.</hi>
+               </item>
+               <item>
+                  <hi>Lieu. Col.</hi> Tho. Coats. <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Major</hi> John Maurois. <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Capt.</hi> Fra. Iſaacſon <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Capt.</hi> Tho. Kaly. <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Capt.</hi> John Seed. <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>Hen. Stead <hi>Capt. Lieut.</hi>
+               </item>
+               <item>Arth. Manwaring.</item>
+               <item>Ralph Silverton.</item>
+               <item>John Sands.</item>
+               <item>Hum. Griffith.</item>
+               <item>William Beedam</item>
+               <item>Edw. Foſter.</item>
+               <item>Mat. Hutchinſon.</item>
+               <item>Tho. Wathen.</item>
+               <item>Guthlake Folliot.</item>
+               <item>Rob. Chaplain.</item>
+            </list>
+            <list>
+               <head>III. Regiment Yellow.</head>
+               <item>
+                  <hi>Col.</hi> Tho. Nevill. <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>L. Col.</hi> Cha. Fowke. <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Major</hi> Edw. Croſſe. <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Capt.</hi> Tho. Templer <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Capt.</hi> Rob. Hatton <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Capt.</hi> Rand. Bird. <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Capt.</hi> Wil. Powell. <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>Will. Malthy <hi>Cap. Lieut.</hi>
+               </item>
+               <item>Tho. Newman.</item>
+               <item>John Walkly.</item>
+               <item>Edw. Townſend.</item>
+               <item>Hen. Brigham.</item>
+               <item>Fran. Hall.</item>
+               <item>John Hamond.</item>
+               <item>Joſeph Sheldon.</item>
+               <item>Tho. Palen.</item>
+               <item>Hen. Atkinſon.</item>
+               <item>Rich. Hollins.</item>
+               <item>John Dickenſon.</item>
+               <item>Tho. Smeaton.</item>
+               <item>John Birkhead.</item>
+            </list>
+            <pb n="8" facs="tcp:119429:5"/>
+            <list>
+               <head>IV. Regiment Red.</head>
+               <item>
+                  <hi>Col.</hi> Edw. Clagett. <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>L. Col.</hi> Thou Padnot. <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Major</hi> Tho. Gunſton. <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Capt.</hi> Tho. Scarlet. <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Capt.</hi> VVil. Cooper. <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Capt.</hi> 
+                  <g ref="char:V">Ʋ</g>dall Walker <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Capt.</hi> Will. Williame <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Lievtenants.</hi>
+                  <list>
+                     <item>Rob. Minchard <hi>Capt. Dient.</hi>
+                     </item>
+                     <item>Rich. Burdon.</item>
+                     <item>Roger Newman.</item>
+                     <item>George Alſop.</item>
+                     <item>Edow Simwous.</item>
+                     <item>Zach. Grant.</item>
+                     <item>Robert Pratt.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Enſigns.</hi>
+                  <list>
+                     <item>Th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>c Hick<gap reason="illegible" resp="#UOM" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>
+                     </item>
+                     <item>William Sudbury.</item>
+                     <item>Will. Groſvenor.</item>
+                     <item>Dox. Lu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>dal.</item>
+                     <item>James Carpenter.</item>
+                     <item>VVill. Hill.</item>
+                     <item>John Jolley.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>V. Regiment Black.</head>
+               <item>
+                  <hi>Col.</hi> William Allut. <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Liev. Col.</hi> Hen. Fewterel <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Major</hi> Tho. Bywater. <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Cap.</hi> Fran. Burton. <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Cap.</hi> Rich. Brigden. <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Cap.</hi> Tho. Drinkwater <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>Rob. Pemel. <hi>Capt. Liev.</hi>
+               </item>
+               <item>Tho. Vere.</item>
+               <item>Tho. Ruſh.</item>
+               <item>Tho. Herbert.</item>
+               <item>Tho. Watkens.</item>
+               <item>Humphrey Pickeford.</item>
+               <item>Rich. Paine.</item>
+               <item>Roger Rower.</item>
+               <item>Tho. Ward.</item>
+               <item>Joſh. Gravener.</item>
+            </list>
+            <list>
+               <head>VI. Regiment Blew</head>
+               <item>
+                  <hi>Col.</hi> Edward Truſſell. <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Liev. Col.</hi> Fran. Manby <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Major</hi> Walter White. <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Capt.</hi> Iohn Povall. <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Capt.</hi> Tho. Cheſter, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Capt.</hi> Tho. Smith, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>
+                  <hi>Capt.</hi> Tho. Weſt, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>Iohn Abbot.</item>
+               <item>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ames Whitechurch.</item>
+               <item>Geo. Coles.</item>
+               <item>Rich. Sudbury.</item>
+               <item>Rich. Winſton.</item>
+               <item>Rich. Winter.</item>
+               <item>Chat Hinton.</item>
+               <item>Fr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Raineford.</item>
+               <item>Will. Faulconer.</item>
+               <item>Robert Cooke.</item>
+               <item>Iames Town.</item>
+               <item>John Mitchell</item>
+               <item>Will. Woodrofe.</item>
+               <item>John Burroughs <hi>
+                     <abbr>Eſq</abbr> Muſter Maſter.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Sergeants.</head>
+               <item>Tho. Aynsworth.</item>
+               <item>Rich. Salter.</item>
+               <item>Fran. May.</item>
+               <item>Tho. Sanderſon.</item>
+               <item>Tho. Ingle.</item>
+               <item>Rice Jones.</item>
+               <item>John Hilliard.</item>
+               <item>Tho. Blechle.</item>
+               <item>John Langham.</item>
+               <item>Math. Maſſey.</item>
+               <item>Will. Thruckstone.</item>
+               <item>Will. Dudners.</item>
+               <item>Joſ. Wilſon.</item>
+               <item>Tho. Fordell.</item>
+               <item>Will. Woodley.</item>
+               <item>Edw. Cheſter.</item>
+               <item>John Dunſtane.</item>
+               <item>Theo. Pickering.</item>
+               <item>Tim. Skinnen.</item>
+               <item>John Money.</item>
+               <item>John Mayſon.</item>
+               <item>John Leeſon.</item>
+               <item>Julian Searl.</item>
+               <item>Jul. Gyiffith.</item>
+               <item>Tho. Luoas.</item>
+               <item>Jo: Alexander</item>
+               <item>John Hodges.</item>
+               <item>Ja. Green.</item>
+               <pb n="9" facs="tcp:119429:5"/>
+               <item>Chri. Harris.</item>
+               <item>Will. Baſhford.</item>
+               <item>John Bamſter.</item>
+               <item>Tho. Stanley.</item>
+               <item>Edw. Robins.</item>
+               <item>Edw: Mainwaring.</item>
+               <item>Fra. Jaques.</item>
+               <item>Fra. Ince.</item>
+               <item>Rich. Jones.</item>
+               <item>John Gooden.</item>
+               <item>Hen: Elmes.</item>
+               <item>Edward Gough.</item>
+               <item>Jaw. Branſon.</item>
+               <item>Roger Leigh.</item>
+               <item>Dan. Linyard.</item>
+               <item>John Kiffin.</item>
+               <item>Joſ. Watſm.</item>
+               <item>Rob. Faſſit.</item>
+               <item>Will. Levett.</item>
+               <item>Nath. Swanwick.</item>
+               <item>Rowland Reade.</item>
+               <item>Augu. Davies.</item>
+               <item>John Herring.</item>
+               <item>John Walden.</item>
+               <item>Nath. Cooper.</item>
+               <item>Ralph Whiſtler.</item>
+               <item>Rich. Ledingham.</item>
+               <item>Tho. Lingard.</item>
+               <item>Will. Jackson.</item>
+               <item>Nich. Northop.</item>
+               <item>John Kiffin.</item>
+               <item>Tho. Cooper.</item>
+               <item>Hen. Halſey.</item>
+               <item>Rich. Hill.</item>
+               <item>Tho. Rotherham.</item>
+               <item>Wil. Comberback.</item>
+               <item>Edw. Tew.</item>
+               <item>Fra. Drinkwater.</item>
+               <item>John Brian.</item>
+               <item>L. Dangerfeild.</item>
+               <item>John Fling.</item>
+               <item>Edward Hall.</item>
+               <item>Mich. Wilkinſon.</item>
+               <item>Rich. Hopkins.</item>
+               <item>Edw. Fox.</item>
+               <item>Fra. Eſtwich.</item>
+               <item>Owen Hammond.</item>
+               <item>Ralph Croſſe.</item>
+               <item>John Wyatt.</item>
+               <item>Will. Soden.</item>
+               <item>Peirce Orlon.</item>
+               <item>Tho. Corbett.</item>
+               <item>Da Maxwell.</item>
+               <item>Rich. Selle.</item>
+               <item>Dan. Youghton.</item>
+               <item>Tho. Wilkiſon.</item>
+               <item>Math. Harriſon.</item>
+               <item>Will. Comers.</item>
+               <item>Sam. Mabbs.</item>
+               <item>Rich. Maſon.</item>
+               <item>Geo. Collins.</item>
+               <item>Tho. Hamerſley.</item>
+               <item>Hum. Filer.</item>
+               <item>Will Iones.</item>
+               <item>Will. Chearſley.</item>
+               <item>Ier. Lammus.</item>
+               <item>Leon. Izard.</item>
+               <item>Iohn VVall.</item>
+               <item>Ioſ. Blacklock.</item>
+               <item>Iames Davies.</item>
+               <item>Iohn Skelton.</item>
+               <item>Fran. Moor.</item>
+               <item>Sam. VVeſt.</item>
+               <item>Iohn Bames.</item>
+               <item>Rich. Kell.</item>
+               <item>Tho. Chew.</item>
+               <item>Geo. Poyſor.</item>
+               <item>Iohn King.</item>
+               <item>Ham. Trye.</item>
+               <item>Auth. Palmer.</item>
+               <item>Iſaac Saywell.</item>
+               <item>Iames Sanders.</item>
+               <item>Tho. Sagood.</item>
+               <item>Rich. Halford.</item>
+            </list>
+            <p>From the <hi>Guildhall</hi> they marched in an orderly Train on foot, onely the Lord Major leading them in his Coach to the Court at <hi>Whitehall,</hi> and were inſtantly re<g ref="char:EOLhyphen"/>ceived into the Banquetting-Houſé. His Majeſty at their coming being in debate of ſome inportant affairs at the Council, was
+<pb n="10" facs="tcp:119429:6"/>pleaſed in much favour to ſend a Perſon of quality, and after him ſeveral other Gen<g ref="char:EOLhyphen"/>tlemen one after another, to acquaint them with that occaſion, and to beſpeak their attendance till the ſame would permit his abſence from the Council: Notwithſtand<g ref="char:EOLhyphen"/>ing, it pleaſed his Majeſty after a little while to ſpare himſelf from thoſe Affairs at the Council; and with great ſhew of Princely favour and regard to receive the Papers of Addreſs into his own hand, be<g ref="char:EOLhyphen"/>ing preſented by the Lord Major after he had delivered himſelf in this affectionate Speech.</p>
+            <pb n="11" facs="tcp:119429:6"/>
+            <floatingText xml:lang="eng" type="speech">
+               <body>
+                  <head>THE <hi>Lord Major's Speech.</hi>
+                  </head>
+                  <opener>
+                     <salute>May it pleaſe your Majeſty.</salute>
+                  </opener>
+                  <p>I came accompanied with theſe Your Officers who command all Your <hi>Lon<g ref="char:EOLhyphen"/>don</hi> Forces both Horſe and Foot:<note n="☞" place="margin">Pointing at them ſe<g ref="char:EOLhyphen"/>verally.</note> Here ſtand thoſe that command Your Horſe, theſe Your Trained Bands, The other, Your Auxiliaries; when Your Majeſty hath taken aright view of them, You will ſee Loyalty linked in an unchangeable Chain; theſe are they who will not ſwerve from what they ſwear, that's fealty without falſity, and it were a ſhame not to do ſo; ſeeing we ſow in peace and reap the plenty which ſprings from ſo excellent a Gover<g ref="char:EOLhyphen"/>nor, ſo good a Government: if You pleaſe
+<pb n="12" facs="tcp:119429:7"/>to ſee our hearts, theſe lines lead to them, and ſpeak for them, which I here humbly preſent unto Your Sacred Majeſty in their names and under their hands, Beſeeching Your Majeſty to accept them as a dutiful return of thoſe many ſignal favors vouch<g ref="char:EOLhyphen"/>ſafed by Your Majeſty to Your native City and Loyal Citizens.</p>
+               </body>
+            </floatingText>
+            <p>Whereunto his Majeſty replyed, That he had ſtoln a time from very important Af<g ref="char:EOLhyphen"/>fairs, on which He was in debate with his Council, to come to them; and gave a moſt gracious anſwer, declaring His good eſteem of them; His kinde reſentment of their Ad<g ref="char:EOLhyphen"/>dreſs; His aſſured confidence in their faith<g ref="char:EOLhyphen"/>fulneſs; His readineſs and deſire to advance the welfare of the City; and many other expreſſions full of Princely goodneſs and affection.</p>
+            <p>And after all this, was further pleaſed that night to ſend a worthy Gentleman, Clerk of the Council, to the Lord Major, to give no<g ref="char:EOLhyphen"/>tice that His Majeſty intended the nextday
+<pb n="13" facs="tcp:119429:7"/>to ſend down ſome Lords of his Council to make a more ample ſignification of his Ma<g ref="char:EOLhyphen"/>jeſties gracious acceptance of the Addreſs, and to require a meeting of the Commanders and Officers for that purpoſe: But their Lordſhip being prevented by the Lords Commiſſioners ſitting for claims at the Co<g ref="char:EOLhyphen"/>ronation, ſent to excuſe their perſonal com<g ref="char:EOLhyphen"/>ing by a Meſſenger to the Lord Major, who alſo brought his Majeſties gracious Letter in theſe words.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <signed>CHARLES R.</signed>
+                  </opener>
+                  <p>TRuſty and welbeloved, We Greet you well. We have received your Ad<g ref="char:EOLhyphen"/>dreſs, wherein you do not only give <g ref="char:V">Ʋ</g>s a full and acceptable Demonſtration of your Duty, Love, and Loyalty to <g ref="char:V">Ʋ</g>s (which VVe do Graciouſly accept) but alſo ſhew forth an Eminent Example thereof to all other Our good Subjects within Our King<g ref="char:EOLhyphen"/>domes and Dominions. You may be aſſured that as Our Royal Progenitors have al<g ref="char:EOLhyphen"/>waies
+<pb n="14" facs="tcp:119429:8"/>had a particular and extraordinary kindneſs for that Our Capital City, ſo VVe ſhall not come behind any of them in Our Princely care to make the ſame both flou<g ref="char:EOLhyphen"/>riſhing and ſecure at home, and Glorious and Renowned abroad. And ſo we bid you farewell. <hi>Given at Our Court at</hi> VVhitehall <hi>this third day of</hi> April <hi>in the 13th year of Our Reign.</hi>
+                  </p>
+                  <closer>
+                     <signed>By his Majeſties Command, WILL. MORICE.</signed>
+                  </closer>
+                  <trailer>To Our Truſty and Welbeloved Sir <hi>Richard Brown</hi> Knight and Baronet, Lord Major, and Major-General of Our City of <hi>London,</hi> to be Communicated to the Field Officers and Captains, with all the Inferior Offi<g ref="char:EOLhyphen"/>cers of the ſeveral Regiments of the Trai<g ref="char:EOLhyphen"/>ned Bands, the Regiments of Horſe, and the Regiments of Auxiliary Fortes of our ſaid City.</trailer>
+               </body>
+            </floatingText>
+            <pb n="15" facs="tcp:119429:8"/>
+            <p>Which being read in preſence of all the Field Officers made deep impreſſions of his Majeſties Grace, and favour upon their minds and drew forth all anſwerable acknowledg<g ref="char:EOLhyphen"/>ments in outward expreſſions, which they or<g ref="char:EOLhyphen"/>dered preſently to be repreſented to His Ma<g ref="char:EOLhyphen"/>jeſty by Sir <hi>Richard Ford,</hi> Sir <hi>William Vincent,</hi> and Sir <hi>Thomas Player,</hi> and directed them to beg of His Majeſty this Boyal addition, that they might publiſh in print the Narra<g ref="char:EOLhyphen"/>tive of the whole paſſage of their dutifull Addreſs, and the moſt gracious reception thereof by his ſacred Majeſty for the juſt ſupport of thoſe good Subjects whoſe loyal affections attended that Remonſtrance, and at once to ſtop the mouthes of thoſe who de<g ref="char:EOLhyphen"/>tracted from the Royal acceptance of it, and to encourage them (if they have any ſence of Duty and Honor) to out-do the Remonſtrants in the like real profeſſion of their bounden du<g ref="char:EOLhyphen"/>ty; for which the ſaid Officers ſhall both love and honor their new Rivals, and in all amity and mutual affections keep pace with them, if they can.</p>
+            <pb n="16" facs="tcp:119429:9"/>
+            <p>Which His Majeſty was graciouſly well pleaſed to approve of, and conſent that His Royal Letter, and all the preceding paſſages ſhould be made publick.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:119429:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
